@@ -1,0 +1,42 @@
+.header {
+    background-color: red ;
+    padding: 30px 15px;
+}
+
+.nav__list {
+    background-color: aqua;
+}
+
+.nav__list-item {
+    background-color: blue;
+}
+
+.header p {
+    font-weight: bold;
+}
+
+.main__header {
+    font-style: italic;
+}
+
+.main__section {
+    padding: 40px 25px;
+    background-color: coral;
+    margin-bottom: 100px;
+}
+
+.main__section-header {
+    border: 2px solid green;
+    margin-bottom: 50px;
+}
+
+.main__section-item {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.footer {
+    color: #fff;
+    background-color: red;
+}
